@@ -1,0 +1,44 @@
+{
+  "request": {
+    "requesterId": 28, "userId": 0, "userContactAddress": {
+      "firstname": "Jane",
+      "lastname": "Doe",
+      "gender": "FEMALE",
+      "companyName": "Umbrella Corp.", "phoneNumber": "+1 416 321313-55", "emailAddress": "jane.doe@umbrella.com", "country": "US",
+      "federalState": "CA",
+      "city": "[CA] Avalon", "zipCode": "[CA] 90704", "street": "[CA] Umbrella Alley", "houseNo": "[CA] 20-27", "addOn": "[CA] Building C"
+    },
+    "userBillingAddress": null, "clearingHouse": "GMBH", "liableOffice": "HAMBURG", "salesTeam": "DACH", "salesManagerId": 1055, "accountBookingType": "NEW_BUSINESS", "billingTerms": "NET_10", "otherBillingTerms": null, "salesChannels": [
+      "COLD_CALL",
+      "CUSTOMER_VISIT"
+    ],
+    "areSeatsLimited": true,
+    "seatsLimit": 15, "accountAccessTypes": [
+      "PASSWORD",
+      "IP_LOGIN",
+      "DOMAIN",
+      "SSO_LINK",
+      "SHIBBOLETH",
+      "SAML_2"
+    ],
+    "agreementForm": "CONTRACT", "products": [
+      {
+        "enumValue": "PREMIUM_ACCOUNT", "price": 25,
+        "pricePerMonth": 25, "description": "single account"
+      },
+      {
+        "enumValue": "DOSSIER", "price": 0, "pricePerMonth": 0, "description": "dossier"
+      } ],
+    "subscriptionStartDate": null, "subscriptionFullMonths": 12, "subscriptionEndDate": null, "pricePerMonth": null, "discountAmount": null, "newBusinessAmountPart": null, "renewalAmountPart": null, "invoiceAmount": 0.01,
+    "currency": "EUR",
+    "businessLanguage": "DE", "isPurchaseOrderNumberRequired": false, "purchaseOrderNumber": null,
+    "vatId": null,
+    "hasAutoCancellation": null, "contractDocumentUrl": null, "contractDocumentFileName": null, "contractDocument": null, "offerDocumentUrl": null, "offerDocumentFileName": null, "offerDocument": null,
+    "isBundleBooking": null,
+    "isInvoiceSplit": null,
+    "dealType": "SINGLE", "salesforceOpportunityId": "dsadsayxcsdfret", "smRevenueShares": [
+      {
+        "salesManagerId": 1055, "profitCenter": "DACH_CORE", "totalShareInPercent": 0.01, "totalShareValue": 0.01
+      } ],
+    "flsRevenueShares": [], "additionalInfo": null, "version": null
+  } }
